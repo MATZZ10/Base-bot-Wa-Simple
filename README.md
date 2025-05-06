@@ -1,46 +1,43 @@
-# Matzz Bot
+<h1 align="center">🤖 Matzz Bot</h1>
 
-Matzz Bot adalah bot WhatsApp open source berbasis [Node.js](https://nodejs.org/) dan [@fizzxydev/baileys-pro](https://github.com/fizzxydev/baileys-pro) yang dirancang sebagai base sederhana, ringan, dan fleksibel. Cocok untuk dikembangkan lebih lanjut sesuai kebutuhanmu!
+<p align="center">
+  <a href="https://nodejs.org/">
+    <img src="https://img.shields.io/badge/Node.js-v18.x-green?logo=node.js" alt="Node.js">
+  </a>
+  <a href="https://github.com/fizzxydev/baileys-pro">
+    <img src="https://img.shields.io/badge/Baileys-Pro-@fizzxydev-blue?logo=whatsapp" alt="Baileys Pro">
+  </a>
+  <a href="https://github.com/MATZZ10/Base-bot-Wa-Simple/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License">
+  </a>
+</p>
 
-## ✨ Fitur Utama
+---
+
+## ⚡ Tentang
+
+**Matzz Bot** adalah base bot WhatsApp open source yang dibangun dengan [Node.js](https://nodejs.org/) dan [@fizzxydev/baileys-pro](https://github.com/fizzxydev/baileys-pro). Proyek ini dibuat untuk kamu yang ingin membangun bot WA dari nol dengan kode yang clean dan gampang dikembangkan.
+
+## ✨ Fitur
 
 - Koneksi cepat ke WhatsApp via WebSocket
-- Struktur kode modular dan mudah dipahami
-- Logging custom dengan format rapi
-- Siap dikembangkan: tambahkan command, fitur AI, automasi grup, dan lainnya!
+- Logging custom & rapi
+- Struktur modular & simpel
+- Siap dikembangkan: cocok buat command, fitur AI, dll
 
-## ⚙️ Instalasi
+## 🔧 Cara Jalankan
 
-1. **Clone repo-nya**
-   ```bash
-   git clone https://github.com/username/matzz-bot.git
-   cd matzz-bot
-
-2. Install dependensi
-
+```bash
+git clone https://github.com/MATZZ10/Base-bot-Wa-Simple.git
+cd Base-bot-Wa-Simple
 npm install
-
-
-3. Jalankan bot
-
 node index.js
 
+📜 Lisensi
+
+Proyek ini menggunakan lisensi MIT — bebas dipakai dan dikembangkan.
 
 
-📁 Struktur Folder (Singkat)
+---
 
-matzz-bot/
-├── lib/              # Modul utama (koneksi, message handler, dll)
-├── config/           # Pengaturan bot
-├── logs/             # File log
-├── session/          # Data koneksi WhatsApp
-├── index.js          # Entry point bot
-└── package.json
-
-🧠 Untuk Developer
-
-Matzz Bot tidak memiliki fitur bawaan — kamu bebas membangun sesuai imajinasi. Cocok buat belajar, eksperimen, atau dijadikan kerangka bot WhatsApp skala kecil-menengah.
-
-📄 License
-
-MIT — bebas digunakan, diubah, dan dikembangkan.
+> Dibuat dengan niat & ngopi oleh MATZZ10
