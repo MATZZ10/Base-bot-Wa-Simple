@@ -1,0 +1,905 @@
+{
+  "users": [
+    {
+      "userId": "62895406828812@s.whatsapp.net",
+      "name": "",
+      "transaksi": [
+        {
+          "id": "MLBB01",
+          "jumlah": 1,
+          "totalBayar": 1000,
+          "reffId": "373AFEC075",
+          "tanggal": "2025-03-18 20:18:10"
+        },
+        {
+          "id": "MLBB01",
+          "jumlah": 1,
+          "totalBayar": 62,
+          "reffId": "194E7BDB9B",
+          "tanggal": "2025-03-18 20:34:35"
+        },
+        {
+          "id": "MLBB01",
+          "jumlah": 1,
+          "totalBayar": 59,
+          "reffId": "7C4F47BE66",
+          "tanggal": "2025-03-18 20:44:46"
+        }
+      ],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {},
+      "updatedAt": "2025-04-29T04:02:18.914Z",
+      "energy": 80
+    },
+    {
+      "userId": "6281374955605@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6281356541584@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "628170500626@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "628119072423@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6288807619898@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6281131500600@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6282289802000@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6282154485958@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6288225018186@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "62882007379058@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6285198736567@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6281543241190@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "status@broadcast",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "unknown@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6287823745178@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6287884421971@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6283844009539@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6285194323796@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6288270904788@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6282117155752@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "62895342022385@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6289673462138@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "62895330319769@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6283829344936@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6285871923546@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6283123448708@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6285960499196@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6285147604355@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "120363267733189530@newsletter",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6282196502505@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6282114275683@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "147816164901059@lid",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6285242631331@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6285865216800@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6281374473943@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6285931969956@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6285870966580@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6283838636307@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6287810642052@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "628999800123@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6289512749959@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6289509144026@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "62882003233881@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6285728943082@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6285850871762@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "62882008550305@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6285669413001@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6283141984932@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "62881025199061@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "62887436673718@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6285710566525@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6282169258186@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6285793308776@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6287788111284@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6282283528884@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6283172107262@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6287778744915@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6285784073375@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6285122392607@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6283870871088@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "62895321406468@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6288228725981@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6285172200670@s.whatsapp.net",
+      "name": "",
+      "transaksi": [],
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "order": {}
+    },
+    {
+      "userId": "6289635556027@s.whatsapp.net",
+      "name": "",
+      "warnings": 0,
+      "messages": 0,
+      "premium": false,
+      "energy": 100,
+      "transaksi": [],
+      "order": {}
+    }
+  ],
+  "groups": [
+    {
+      "groupId": "120363031014665798@g.us",
+      "welcome": false,
+      "demote": false,
+      "promote": false,
+      "mute": false,
+      "antilink": false,
+      "antigambar": false,
+      "antibokep": false,
+      "antikatakasar": false
+    },
+    {
+      "groupId": "120363314892785764@g.us",
+      "welcome": false,
+      "demote": false,
+      "promote": false,
+      "mute": false,
+      "antilink": false,
+      "antigambar": false,
+      "antibokep": false,
+      "antikatakasar": false
+    },
+    {
+      "groupId": "120363388503399889@g.us",
+      "welcome": false,
+      "demote": false,
+      "promote": false,
+      "mute": false,
+      "antilink": false,
+      "antigambar": false,
+      "antibokep": false,
+      "antikatakasar": false
+    },
+    {
+      "groupId": "120363216470639609@g.us",
+      "welcome": false,
+      "demote": false,
+      "promote": false,
+      "mute": false,
+      "antilink": false,
+      "antigambar": false,
+      "antibokep": false,
+      "antikatakasar": false
+    },
+    {
+      "groupId": "120363386256931205@g.us",
+      "welcome": false,
+      "demote": false,
+      "promote": false,
+      "mute": false,
+      "antilink": false,
+      "antigambar": false,
+      "antibokep": false,
+      "antikatakasar": false
+    },
+    {
+      "groupId": "120363392576281780@g.us",
+      "welcome": false,
+      "demote": false,
+      "promote": false,
+      "mute": false,
+      "antilink": false,
+      "antigambar": false,
+      "antibokep": false,
+      "antikatakasar": false
+    },
+    {
+      "groupId": "120363373160601416@g.us",
+      "welcome": false,
+      "demote": false,
+      "promote": false,
+      "mute": false,
+      "antilink": false,
+      "antigambar": false,
+      "antibokep": false,
+      "antikatakasar": false
+    },
+    {
+      "groupId": "120363281367011160@g.us",
+      "welcome": false,
+      "demote": false,
+      "promote": false,
+      "mute": false,
+      "antilink": false,
+      "antigambar": false,
+      "antibokep": false,
+      "antikatakasar": false
+    },
+    {
+      "groupId": "120363283417272774@g.us",
+      "welcome": false,
+      "demote": false,
+      "promote": false,
+      "mute": false,
+      "antilink": false,
+      "antigambar": false,
+      "antibokep": false,
+      "antikatakasar": false
+    },
+    {
+      "groupId": "120363308441402084@g.us",
+      "welcome": false,
+      "demote": false,
+      "promote": false,
+      "mute": false,
+      "antilink": false,
+      "antigambar": false,
+      "antibokep": false,
+      "antikatakasar": false
+    },
+    {
+      "groupId": "120363391883824497@g.us",
+      "welcome": false,
+      "demote": false,
+      "promote": false,
+      "mute": false,
+      "antilink": false,
+      "antigambar": false,
+      "antibokep": false,
+      "antikatakasar": false
+    },
+    {
+      "groupId": "120363233989668679@g.us",
+      "welcome": false,
+      "demote": false,
+      "promote": false,
+      "mute": false,
+      "antilink": false,
+      "antigambar": false,
+      "antibokep": false,
+      "antikatakasar": false
+    },
+    {
+      "groupId": "120363174268267471@g.us",
+      "welcome": false,
+      "demote": false,
+      "promote": false,
+      "mute": false,
+      "antilink": false,
+      "antigambar": false,
+      "antibokep": false,
+      "antikatakasar": false
+    },
+    {
+      "groupId": "120363312615061243@g.us",
+      "welcome": false,
+      "demote": false,
+      "promote": false,
+      "mute": false,
+      "antilink": false,
+      "antigambar": false,
+      "antibokep": false,
+      "antikatakasar": false
+    },
+    {
+      "groupId": "120363356947062104@g.us",
+      "welcome": false,
+      "demote": false,
+      "promote": false,
+      "mute": false,
+      "antilink": false,
+      "antigambar": false,
+      "antibokep": false,
+      "antikatakasar": false
+    },
+    {
+      "groupId": "120363180596397612@g.us",
+      "welcome": false,
+      "demote": false,
+      "promote": false,
+      "mute": false,
+      "antilink": false,
+      "antigambar": false,
+      "antibokep": false,
+      "antikatakasar": false
+    },
+    {
+      "groupId": "120363319681625069@g.us",
+      "welcome": false,
+      "demote": false,
+      "promote": false,
+      "mute": false,
+      "antilink": false,
+      "antigambar": false,
+      "antibokep": false,
+      "antikatakasar": false
+    },
+    {
+      "groupId": "120363420103419901@g.us",
+      "welcome": false,
+      "demote": false,
+      "promote": false,
+      "mute": false,
+      "antilink": false,
+      "antigambar": false,
+      "antibokep": false,
+      "antikatakasar": false
+    },
+    {
+      "groupId": "120363418649742630@g.us",
+      "welcome": false,
+      "demote": false,
+      "promote": false,
+      "mute": false,
+      "antilink": false,
+      "antigambar": false,
+      "antibokep": false,
+      "antikatakasar": false
+    },
+    {
+      "groupId": "120363294572961385@g.us",
+      "welcome": false,
+      "demote": false,
+      "promote": false,
+      "mute": false,
+      "antilink": false,
+      "antigambar": false,
+      "antibokep": false,
+      "antikatakasar": false
+    },
+    {
+      "groupId": "120363406406789377@g.us",
+      "welcome": false,
+      "promote": false,
+      "demote": false,
+      "mute": false,
+      "antilink": false,
+      "antigambar": false,
+      "antibokep": false,
+      "antikatakasar": false
+    },
+    {
+      "groupId": "120363398206622919@g.us",
+      "welcome": false,
+      "promote": false,
+      "demote": false,
+      "mute": false,
+      "antilink": false,
+      "antigambar": false,
+      "antibokep": false,
+      "antikatakasar": false
+    },
+    {
+      "groupId": "120363409398288102@g.us",
+      "welcome": false,
+      "promote": false,
+      "demote": false,
+      "mute": false,
+      "antilink": false,
+      "antigambar": false,
+      "antibokep": false,
+      "antikatakasar": false
+    }
+  ],
+  "settings": {
+    "greeting": "",
+    "status": "activated"
+  },
+  "store": {
+    "produk": {
+      "MATZZ01": {
+        "id": "MATZZ01",
+        "name": "MATZZ",
+        "price": 50000,
+        "profit": 10000,
+        "stok": [
+          {
+            "email": "test@gmail.com",
+            "password": "Test",
+            "profil": "-",
+            "pin": "-",
+            "tfa": "TESTING PEMBUATAN FITUR BUY"
+          }
+        ],
+        "kategori": "TESTING",
+        "image": "-",
+        "dibuat": 1742306048350,
+        "promo": {
+          "diskon": 60,
+          "hargaPromo": 20000
+        }
+      }
+    },
+    "order": [],
+    "testi": [],
+    "chat": {},
+    "rekber": {},
+    "transaksi": []
+  },
+  "message": []
+}
